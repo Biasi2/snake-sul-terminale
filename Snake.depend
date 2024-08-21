@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1719998290 source:c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\main.cpp
+	<iostream>
+	<Serpente.hpp>
+	<Mela.hpp>
+	<metodiGenerali.hpp>
+	<Windows.h>
+
+1719998524 c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\include\serpente.hpp
+	<conio.h>
+	<Common.hpp>
+	<Corpo_serpente.hpp>
+	<vector>
+	<iostream>
+
+1719997463 c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\include\common.hpp
+
+1723400614 source:c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\src\serpente.cpp
+	"Serpente.hpp"
+
+1719950378 c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\include\mela.hpp
+	<stdlib.h>
+	<time.h>
+	<Common.hpp>
+	<Serpente.hpp>
+
+1723400318 source:c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\src\metodigenerali.cpp
+	"metodiGenerali.hpp"
+
+1719995966 c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\include\metodigenerali.hpp
+	<iostream>
+	<conio.h>
+	<Serpente.hpp>
+	<Mela.hpp>
+	<Common.hpp>
+
+1719994636 source:c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\src\mela.cpp
+	"Mela.hpp"
+
+1719947728 c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\include\corpo_serpente.hpp
+
+1719947768 source:c:\users\valerio\desktop\progetti video yt\programma informatica\snake\progettogioco\snake\src\corpo_serpente.cpp
+	"Corpo_serpente.hpp"
+
